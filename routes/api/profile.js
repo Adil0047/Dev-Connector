@@ -6,7 +6,7 @@ const router = express.Router();
 //@Access         Public
 
 router.get('/', (req, res) => {
-  res.send('Boom Profile Route :)');
+  res.send('Boom! Profile Route :)');
 });
 
 module.exports = router;

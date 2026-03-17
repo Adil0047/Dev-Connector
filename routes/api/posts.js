@@ -6,7 +6,7 @@ const router = express.Router();
 //@Access         Public
 
 router.get('/', (req, res) => {
-  res.send('Boom Posts Route :)');
+  res.send('Boom! Posts Route :)');
 });
 
 module.exports = router;

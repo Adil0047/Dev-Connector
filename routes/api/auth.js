@@ -6,7 +6,7 @@ const router = express.Router();
 //@Access         Public
 
 router.get('/', (req, res) => {
-  res.send('Boom Auth Route :)');
+  res.send('Boom! Auth Route :)');
 });
 
 module.exports = router;
