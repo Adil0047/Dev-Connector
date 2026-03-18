@@ -1,3 +1,4 @@
 {
-      "mongoURI": "mongodb+srv://Adil047:Adil047@devconnector.5p35iny.mongodb.net/?appName=DevConnector"
+      "mongoURI": "mongodb+srv://Adil047:Adil047@devconnector.5p35iny.mongodb.net/?appName=DevConnector",
+      "jwtToken": "secretTokenKey"
 }
